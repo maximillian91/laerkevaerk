@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Persian</title>
+    <link>https://demo.gethugothemes.com/persian/examplesite/categories/</link>
+    <description>Recent content in Categories on Persian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/persian/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green Tree</title>
+      <link>https://demo.gethugothemes.com/persian/examplesite/categories/green-tree/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/persian/examplesite/categories/green-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>https://demo.gethugothemes.com/persian/examplesite/categories/nature/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/persian/examplesite/categories/nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspire</title>
+      <link>https://demo.gethugothemes.com/persian/examplesite/categories/inspire/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/persian/examplesite/categories/inspire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree</title>
+      <link>https://demo.gethugothemes.com/persian/examplesite/categories/tree/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/persian/examplesite/categories/tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://demo.gethugothemes.com/persian/examplesite/categories/writing/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/persian/examplesite/categories/writing/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
